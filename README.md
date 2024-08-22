@@ -1,1 +1,1 @@
-# konstantinstupakov.github.io
+# Create simple serializer for Products
